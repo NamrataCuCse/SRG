@@ -7,10 +7,10 @@ python simulated_read_PE.py reference.fa depth_of_coverage
 ```
 ## Example: 
 ```bash
-python simulated_read_PE.py test data/sample.fa 10
+python simulated_read_PE.py testdata/sample.fa 10
 ```
 ## Output:
 ```bash
-1. test data/simulatedR_1.fastq
-2. test data/simulatedR_2.fastq
+1. testdata/simulatedR_1.fastq
+2. testdata/simulatedR_2.fastq
 ```
