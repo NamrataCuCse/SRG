@@ -5,7 +5,7 @@ Pair-ended Simulated Read Generation
 ```bash
 python simulated_read_PE.py reference.fa depth_of_coverage
 ```
-## Usage: 
+## Example: 
 ```bash
 python simulated_read_PE.py sample.fa 10
 ```
