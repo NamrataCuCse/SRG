@@ -13,4 +13,4 @@ python simulated_read_PE.py test data/sample.fa 10
 ```bash
 1. test data/simulatedR_1.fastq
 2. test data/simulatedR_2.fastq
-```bash
+```
